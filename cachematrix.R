@@ -1,4 +1,4 @@
-# makeCacheMatrix: This function creates a special "matrix" object that caches its inverse.
+#makeCacheMatrix: This function creates a special "matrix" object that caches its inverse.
 #cacheSolve: This function computes the inverse of the special "matrix" returned by makeCacheMatrix.
 
 makeCacheMatrix <- function(x = matrix()) {
